@@ -1,0 +1,70 @@
+{
+  "property": [
+    {
+      "id": 1,
+      "image": "/images/adobi-villa.jpg",
+      "propertyType": "DUPLEX",
+      "propertyName": "4 Bedroom Contemporary Duplex",
+      "propertyLocation": "Lekki Phase 1, Lagos",
+      "beds": "4 Beds",
+      "baths": "5 Baths",
+      "size": "450 m2",
+      "price": "#185,000,000"
+    },
+    {
+      "id": 2,
+      "image": "/images/adobi-apartments.jpg",
+      "propertyType": "Apartment",
+      "propertyName": "3 Bedroom Service Apartment",
+      "propertyLocation": "Wuse II, Abuja",
+      "beds": "3 Beds",
+      "baths": "3 Baths",
+      "size": "250 m2",
+      "price": "#95,000,000"
+    },
+    {
+      "id": 3,
+      "image": "/images/adobi-bungalow.jpg",
+      "propertyType": "Bungalow",
+      "propertyName": "4 Bedroom Garden Bungalow",
+      "propertyLocation": "GRA Phase 2, Port Harcourt",
+      "beds": "4 Beds",
+      "baths": "4 Baths",
+      "size": "380 m2",
+      "price": "#410,000,000"
+    },
+    {
+      "id": 4,
+      "image": "/images/adobi-duplex.jpg",
+      "propertyType": "Duplex",
+      "propertyName": "5 Bedroom Signature Duplex",
+      "propertyLocation": "Banana Island, Lagos",
+      "beds": "5 Beds",
+      "baths": "6 Baths",
+      "size": "620 m2",
+      "price": "#350,000,000"
+    },
+    {
+      "id": 5,
+      "image": "/images/adobi-apartments.jpg",
+      "propertyType": "Apartment",
+      "propertyName": "3 Bedroom Serviced Apartment",
+      "propertyLocation": "Jabi, Abuja",
+      "beds": "3 Beds",
+      "baths": "3 Baths",
+      "size": "195 m2",
+      "price": "#68,000,000"
+    },
+    {
+      "id": 6,
+      "image": "/images/adobi-bungalow.jpg",
+      "propertyType": "Bungalow",
+      "propertyName": "3 Bedroom Detached Bungalow",
+      "propertyLocation": "Peter Odili Road, Port Harcourt",
+      "beds": "3 Beds",
+      "baths": "4 Baths",
+      "size": "310 m2",
+      "price": "#55,000,000"
+    }
+  ]
+}
